@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmiehl
 - 👀 I’m interested in Javascript, CSS, HTML 5, Swift
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joe.miehl@gmail.com
 
